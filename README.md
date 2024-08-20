@@ -1,13 +1,10 @@
-Here's a properly formatted `README.md` file:
-
-```markdown
 # Cipher Type Detection
 
 This project involves building a machine learning model to detect the type of cipher used in encrypted text. The model is trained using encrypted texts derived from Shakespeare's *Macbeth*, and can classify the type of cipher used in the encryption.
 
 ## Project Structure
 
-```
+```bash
 Cipher-Type-Detection/
 │
 ├── data/
@@ -93,7 +90,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Shakespeare's Macbeth for the raw text data.
 - TensorFlow, NumPy, Pandas, and Scikit-learn for the machine learning framework and tools.
-
-```
-
-Feel free to customize the repository URL, license information, or any other specifics based on your project's needs.
